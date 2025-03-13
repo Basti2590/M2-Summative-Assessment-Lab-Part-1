@@ -1,2 +1,3 @@
 # M2-Summative-Assessment-Lab-Part-1
 This project is a vaccine stock management system, it's designed to assist healthcare facilities in efficiently managing vaccine inventory.
+It ensures proper storage, tracking, and distribution. The system helps doctors and assistants monitor vaccine stock levels, track expiry dates, and record administered doses to prevent shortages and reduce waste.Key features include real-time stock tracking, automated alerts for expiring vaccines, and a vaccination recording module for accurate patient records. Additionally, the system generates inventory reports and system usage summaries for future decision-making. 
